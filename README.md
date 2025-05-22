@@ -9,11 +9,11 @@ Welcome to the repository for **Week 1** of our Java learning journey. This week
 - [Overview](#overview)
 - [Topics Covered](#topics-covered)
   - [Day 1: Introduction to Java](#day-1-introduction-to-java)
-  - [Day 2: Variables, Data Types, and Operators](#day-2-variables-data-types-and-operators)
-  - [Day 3: Control Flow (Conditional Statements and Loops)](#day-3-control-flow-conditional-statements-and-loops)
-  - [Day 4: Arrays](#day-4-arrays)
+  - [Day 2: Control Flow (Conditional Statements and Loops)](#day-2-control-flow-conditional-statements-and-loops)
+  - [Day 3: Arrays](#day-3-arrays)
+  - [Day 4: Functions (Methods)](#day-4-functions-methods)
   - [Day 5: Strings](#day-5-strings)
-  - [Day 6: Functions (Methods)](#day-6-functions-methods)
+  - [Day 6: Classes and Objects](#day-6-classes-and-objects)
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
 
@@ -34,14 +34,7 @@ The first week was dedicated to understanding the core syntax and essential buil
 - Writing and running the first Java program ("Hello, World!")
 - Understanding the basic structure of a Java program (classes, main method)
 
-### [Day 2: Variables, Data Types, and Operators](https://github.com/Wickeshhh/Week1/tree/master/Day2-Control%20Flows)
-- Declaring and initializing variables
-- Primitive data types (`int`, `double`, `boolean`, `char`, etc.)
-- Non-primitive data types (`String` - introduced briefly)
-- Understanding Java operators (arithmetic, relational, logical, assignment)
-- Type casting
-
-### [Day 3: Control Flow (Conditional Statements and Loops)](https://github.com/Wickeshhh/Week1/tree/master/Day3-Arrays)
+### [Day 2: Control Flow (Conditional Statements and Loops)](https://github.com/Wickeshhh/Week1/tree/master/Day2-Control%20Flows)
 - `if`, `else if`, and `else` statements
 - `switch` statement
 - `for` loops
@@ -49,12 +42,19 @@ The first week was dedicated to understanding the core syntax and essential buil
 - `do-while` loops
 - `break` and `continue` statements
 
-### [Day 4: Arrays](https://github.com/Wickeshhh/Week1/tree/master/Day4-Methods)
+### [Day 3: Arrays](https://github.com/Wickeshhh/Week1/tree/master/Day3-Arrays)
 - What are arrays?
 - Declaring and initializing arrays
 - Accessing array elements
 - Iterating through arrays
 - Multi-dimensional arrays
+
+### [Day 4: Functions (Methods)](https://github.com/Wickeshhh/Week1/tree/master/Day4-Methods)
+- What are functions/methods?
+- Defining and calling methods
+- Method parameters and return types
+- Method overloading
+- Understanding `static` and `void` keywords
 
 ### [Day 5: Strings](https://github.com/Wickeshhh/Week1/tree/master/Day5-Strings)
 - Introduction to the `String` class
@@ -63,12 +63,18 @@ The first week was dedicated to understanding the core syntax and essential buil
 - String concatenation
 - String immutability
 
-### [Day 6: Functions (Methods)](https://github.com/Wickeshhh/Week1/tree/master/Day6-Class%20and%20Objects)
-- What are functions/methods?
-- Defining and calling methods
-- Method parameters and return types
-- Method overloading
-- Understanding `static` and `void` keywords
+### [Day 6: Classes and Objects](https://github.com/Wickeshhh/Week1/tree/master/Day6-Class%20and%20Objects)
+- Understanding what `classes and objects` are in Java
+
+- Declaring a class and `creating objects` from it using the `new keyword`
+
+- Defining `fields (variables) and methods` inside a class
+
+- Using `constructors` to initialize objects
+
+- Accessing members (fields/methods) of an object using `dot notation`
+
+
 
 ---
 
