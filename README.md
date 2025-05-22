@@ -16,7 +16,6 @@ Welcome to the repository for **Week 1** of our Java learning journey. This week
   - [Day 6: Functions (Methods)](#day-6-functions-methods)
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
 
 ---
 
@@ -28,21 +27,21 @@ The first week was dedicated to understanding the core syntax and essential buil
 
 ## ✅ Topics Covered
 
-### [Day 1: Introduction to Java](https://github.com/Wickeshhh/Week1/tree/main/Day1)
+### [Day 1: Introduction to Java](https://github.com/Wickeshhh/Week1/tree/main/Day1-Fundamentals)
 - What is Java?
 - History and importance of Java
 - Setting up the Java Development Kit (JDK)
 - Writing and running the first Java program ("Hello, World!")
 - Understanding the basic structure of a Java program (classes, main method)
 
-### [Day 2: Variables, Data Types, and Operators](https://github.com/Wickeshhh/Week1/tree/main/Day2)
+### [Day 2: Variables, Data Types, and Operators](https://github.com/Wickeshhh/Week1/tree/main/Day2-Control%20Flows)
 - Declaring and initializing variables
 - Primitive data types (`int`, `double`, `boolean`, `char`, etc.)
 - Non-primitive data types (`String` - introduced briefly)
 - Understanding Java operators (arithmetic, relational, logical, assignment)
 - Type casting
 
-### [Day 3: Control Flow (Conditional Statements and Loops)](https://github.com/Wickeshhh/Week1/tree/main/Day3)
+### [Day 3: Control Flow (Conditional Statements and Loops)](https://github.com/Wickeshhh/Week1/tree/main/Day3-Arrays)
 - `if`, `else if`, and `else` statements
 - `switch` statement
 - `for` loops
@@ -50,21 +49,21 @@ The first week was dedicated to understanding the core syntax and essential buil
 - `do-while` loops
 - `break` and `continue` statements
 
-### [Day 4: Arrays](https://github.com/Wickeshhh/Week1/tree/main/Day4)
+### [Day 4: Arrays](https://github.com/Wickeshhh/Week1/tree/main/Day4-Methods)
 - What are arrays?
 - Declaring and initializing arrays
 - Accessing array elements
 - Iterating through arrays
 - Multi-dimensional arrays
 
-### [Day 5: Strings](https://github.com/Wickeshhh/Week1/tree/main/Day5)
+### [Day 5: Strings](https://github.com/Wickeshhh/Week1/tree/main/Day5-Strings)
 - Introduction to the `String` class
 - Creating `String` objects
 - Common `String` methods (`length()`, `charAt()`, `substring()`, `equals()`, `equalsIgnoreCase()`)
 - String concatenation
 - String immutability
 
-### [Day 6: Functions (Methods)](https://github.com/Wickeshhh/Week1/tree/main/Day6)
+### [Day 6: Functions (Methods)](https://github.com/Wickeshhh/Week1/tree/main/Day6-Class%20and%20Objects)
 - What are functions/methods?
 - Defining and calling methods
 - Method parameters and return types
@@ -85,19 +84,13 @@ The first week was dedicated to understanding the core syntax and essential buil
 
 This repository is structured to reflect the topics covered each day. You can find code examples, notes, or exercises within the respective daily folders:
 
-- [`Day1`](https://github.com/Wickeshhh/Week1/tree/main/Day1)
-- [`Day2`](https://github.com/Wickeshhh/Week1/tree/main/Day2)
-- [`Day3`](https://github.com/Wickeshhh/Week1/tree/main/Day3)
-- [`Day4`](https://github.com/Wickeshhh/Week1/tree/main/Day4)
-- [`Day5`](https://github.com/Wickeshhh/Week1/tree/main/Day5)
-- [`Day6`](https://github.com/Wickeshhh/Week1/tree/main/Day6)
+- [`Day1`](https://github.com/Wickeshhh/Week1/tree/main/Day1-Fundamentals)
+- [`Day2`](https://github.com/Wickeshhh/Week1/tree/main/Day2-Control%20Flows)
+- [`Day3`](https://github.com/Wickeshhh/Week1/tree/main/Day3-Arrays)
+- [`Day4`](https://github.com/Wickeshhh/Week1/tree/main/Day4-Methods)
+- [`Day5`](https://github.com/Wickeshhh/Week1/tree/main/Day5-Strings)
+- [`Day6`](https://github.com/Wickeshhh/Week1/tree/main/Day6-Class%20and%20Objects)
 
 Feel free to explore the code, run it, and modify it to deepen your understanding.
-
----
-
-## 🚀 Next Steps
-
-Continue building upon this foundation by diving into object-oriented programming, exception handling, file I/O, and Java collections in the coming weeks. Stay curious and keep coding!
 
 ---
